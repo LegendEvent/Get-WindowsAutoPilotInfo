@@ -1,6 +1,6 @@
 <#PSScriptInfo
 
-.VERSION 3.9
+.VERSION 4.0
 
 .GUID ebf446a3-3362-4774-83c0-b7299410b63f
 
@@ -50,6 +50,7 @@ Version 3.6:  Switch from MSGraph to MgGraph.
 Version 3.7:  Switching back to using Write-Host.
 Version 3.8:  AddToGroup dependencies fixed.
 Version 3.9:  Expand MgGraph scopes and enforce minimum version for WindowsAutoPilotIntune module.
+Version 4.0:  Added backslash support for grouptags
 #>
 
 <#
