@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an enhanced version of the `Get-WindowsAutoPilotInfo` script, originally from the [PowerShell Gallery](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo/3.9). The main enhancement is the addition of a backslash escape feature for GroupTags, allowing the use of GroupTags like "DEU\HB1" without issues.
+This repository contains an enhanced version of the `Get-WindowsAutoPilotInfo` script, originally from the [PowerShell Gallery](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo/3.9). The main enhancement is the addition of a backslash escape feature for GroupTags, allowing the use of GroupTags like "XXX\XXX" without issues.
 
 ## Key Features
 
